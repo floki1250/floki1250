@@ -4,6 +4,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=floki1250&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 <!--
 **floki1250/floki1250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
