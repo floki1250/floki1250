@@ -1,4 +1,4 @@
-![Banner_Github](https://user-images.githubusercontent.com/37814393/163565001-7f5fa7fa-97f3-41c3-b99d-3c5a753d1e25.png)
+![Banner_Github](https://user-images.githubusercontent.com/37814393/163565072-af72a976-ffad-402b-a330-0f6853cdefe3.png)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=floki1250&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&ring=FFD705&currStreakLabel=FFD705&fire=FFD705&stroke=FFB800)](https://git.io/streak-stats)
