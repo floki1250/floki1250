@@ -1,12 +1,9 @@
 
-![Banner](https://user-images.githubusercontent.com/37814393/205435108-e9085d6e-c285-42e7-937a-403535ebd8dc.png)
+![Alt Text](https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif)
+
+![Banner](https://user-images.githubusercontent.com/37814393/205436192-7dec3c0a-b55f-44a1-98b1-b806be30d347.png)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=floki1250&theme=vue&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly&ring=080673&currStreakNum=080673&sideNums=080673&currStreakLabel=080673&sideLabels=080673&fire=13EAA9)](https://git.io/streak-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=floki1250&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&ring=FFD705&currStreakLabel=FFD705&fire=FFD705&stroke=FFB800)](https://git.io/streak-stats)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-![Metrics](https://metrics.lecoq.io/floki1250?template=classic&repositories=1&languages=1&activity=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=dracula&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Africa%2FLagos)
