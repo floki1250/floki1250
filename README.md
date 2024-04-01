@@ -1,12 +1,6 @@
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"  />
+  <img height="500" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"  />
 </div>
-
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=floki1250.floki1250&"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
