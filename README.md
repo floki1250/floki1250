@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"  />
+  <img height="350" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"  />
 </div>
 
 
@@ -67,10 +67,7 @@
 
 ###
 
-
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=floki1250&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=floki1250&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
